@@ -1,0 +1,4 @@
+./hierarchy y.tree -l 7 > y-1-RMap.txt
+mkdir y
+mv y-1-RMap.txt y/
+python parse.py y/ y.txt

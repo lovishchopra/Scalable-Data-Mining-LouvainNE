@@ -1,0 +1,10 @@
+./b.out ../auc/karate/karate-emb_comm_1.txt ../auc/karate/karate.txt karate/threshold_out_comm_1 karate/karate_out_comm_1.txt euc
+./b.out ../auc/karate/karate-emb_comm_2.txt ../auc/karate/karate.txt karate/threshold_out_comm_2 karate/karate_out_comm_2.txt euc
+./b.out ../auc/karate/karate-emb_comm_3.txt ../auc/karate/karate.txt karate/threshold_out_comm_3 karate/karate_out_comm_3.txt euc
+./b.out ../auc/karate/karate-emb_comm_1_deepwalk.txt ../auc/karate/karate.txt karate/threshold_out_comm_1_deepwalk karate/karate_out_comm_1_deepwalk.txt euc
+./b.out ../auc/karate/karate-emb_comm_2_deepwalk.txt ../auc/karate/karate.txt karate/threshold_out_comm_2_deepwalk karate/karate_out_comm_2_deepwalk.txt euc
+./b.out ../auc/karate/karate-emb_comm_3_deepwalk.txt ../auc/karate/karate.txt karate/threshold_out_comm_3_deepwalk karate/karate_out_comm_3_deepwalk.txt euc
+./b.out ../auc/karate/karate-emb_harp.txt ../auc/karate/karate.txt karate/threshold_out_harp karate/karate_out_harp.txt euc
+./b.out ../auc/karate/karate-emb_node2vec.txt ../auc/karate/karate.txt karate/threshold_out_node2vec karate/karate_out_node2vec.txt euc
+./b.out ../auc/karate/karate-emb_deepwalk.txt ../auc/karate/karate.txt karate/threshold_out_deepwalk karate/karate_out_deepwalk.txt euc
+./b.out ../auc/karate/karate-emb_rand.txt ../auc/karate/karate.txt karate/threshold_out_rand karate/karate_out_rand.txt euc

@@ -1,0 +1,10 @@
+./b.out ../auc/enron/enron-emb_comm_1.txt ../auc/enron/enron.txt enron/enron_out_comm_1.txt euc
+./b.out ../auc/enron/enron-emb_comm_2.txt ../auc/enron/enron.txt enron/enron_out_comm_2.txt euc
+./b.out ../auc/enron/enron-emb_comm_3.txt ../auc/enron/enron.txt enron/enron_out_comm_3.txt euc
+./b.out ../auc/enron/enron-emb_comm_1_deepwalk.txt ../auc/enron/enron.txt enron/enron_out_comm_1_deepwalk.txt euc
+./b.out ../auc/enron/enron-emb_comm_2_deepwalk.txt ../auc/enron/enron.txt enron/enron_out_comm_2_deepwalk.txt euc
+./b.out ../auc/enron/enron-emb_comm_3_deepwalk.txt ../auc/enron/enron.txt enron/enron_out_comm_3_deepwalk.txt euc
+./b.out ../auc/enron/enron-emb_harp.txt ../auc/enron/enron.txt enron/enron_out_harp.txt euc
+./b.out ../auc/enron/enron-emb_node2vec.txt ../auc/enron/enron.txt enron/enron_out_node2vec.txt euc
+./b.out ../auc/enron/enron-emb_deepwalk.txt ../auc/enron/enron.txt enron/enron_out_deepwalk.txt euc
+./b.out ../auc/enron/enron-emb_rand.txt ../auc/enron/enron.txt enron/enron_out_rand.txt euc

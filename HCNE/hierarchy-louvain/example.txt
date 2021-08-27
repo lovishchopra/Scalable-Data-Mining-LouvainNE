@@ -1,0 +1,3 @@
+./convert -i y.txt -o y.bin
+./louvain y.bin -l -1 -v > y.tree
+./hierarchy y.tree -n

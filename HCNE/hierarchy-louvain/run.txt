@@ -1,0 +1,2 @@
+python community-embed-3.py prune_enron/
+python community-embed-3.py enron/
